@@ -4,7 +4,7 @@ This is My Final Submission for 30 Days OF Kotlin By GoogleDevs
 
 ## About 
 
-## My progress ofr 30 Days 
+## My progress for 30 Days 
 
 This is my progress for 30 days of Kotlin [Porgess repo](https://github.com/shantamsultania/30days-of-kotlin)
 
@@ -19,7 +19,8 @@ This repository contains Android Studio project created using concepts learned f
 You can view the full details of this program here -: [30 Days of Kotlin with Google Developers](https://eventsonair.withgoogle.com/events/kotlin)
 
 ## Highlight For Repository
-This Repository contains a CurrencyActivity that contains my final Submission that is a Application that can be used to detect and make the video feed of th camea into multiple forms like gray, edge and red to blue colour .
+
+This Repository contains a Image processing based appicaltion that contains my final Submission that is a Application that can be used to detect and make the video feed of th camea into multiple forms like gray, edge and red to blue colour .
 
 
 
